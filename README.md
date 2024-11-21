@@ -47,7 +47,8 @@ Area report:
 
 
 Power Report:
-![Uploading WhatsApp Image 2024-11-21 at 6.44.45 PM (1).jpeg…]()
+![WhatsApp Image 2024-11-21 at 6 44 45 PM (1)](https://github.com/user-attachments/assets/73df11cc-6c39-4a9f-a261-ff33b7d8d6f8)
+
 
 Result:
 
